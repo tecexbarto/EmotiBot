@@ -11,3 +11,8 @@ EmotiBot is a therapeutic chatbot with emotion analysis capabilities.
 4. **You can view an emotion history** displayed in graphical form. The app includes a **bar graph** that allows you to see the frequency of each emotion detected, and also a **linear graph** to see the evolution of the different emotions.
 
 💡 **If the app takes some time to respond, please wait a few seconds, as the model needs time to process the data.**
+
+#### 🚀 Try the Application  
+You can access the application here:  
+👉 **[EmotiBot - Therapeutic Chatbot](https://huggingface.co/spaces/Bartix84/EmotiBot)**  
+
